@@ -4,5 +4,5 @@ y=[]
         y == i ** 2
       end
         return y
-  end
+
 end
