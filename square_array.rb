@@ -1,3 +1,5 @@
+y = []
+
 def square_array(array)
 y=[]
   array.each do |i|
